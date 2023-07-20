@@ -10,7 +10,7 @@
 
 - 👯 I’m interested in collaborating on **Analytics Projects**
 
-- 📝 I write technical blogs on data and its tools and technologies [https://medium.com/@tejalrk2000](https://medium.com/@tejalrk2000)
+- 📝 I write technical blogs on **data and its tools and technologies** [https://medium.com/@tejalrk2000](https://medium.com/@tejalrk2000)
 
 - 💬 Ask me about anything **I'm happy to help 😄**
 
@@ -24,7 +24,7 @@
 <a href="https://kaggle.com/https://www.kaggle.com/tejalrkhade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/tejalrkhade" height="30" width="40" /></a>
 <a href="https://medium.com/@tejalrk2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tejalrk2000" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tejal_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tejal_28" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/tejal28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Tejal28/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tejal28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Tejal28" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
