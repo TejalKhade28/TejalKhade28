@@ -8,7 +8,7 @@
 
 - 💻 I’m currently Currently Exploring **Data Extraction and Exploration using various Tools and Technologies**
 
-- 👯 I’m interested in collaborating on **Analytics Projects**
+- 👯 I have worked on **Analytics Projects**
 
 - 📝 I write technical blogs on **data and its tools and technologies** [https://medium.com/@tejalrk2000](https://medium.com/@tejalrk2000)
 
@@ -32,6 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejalkhade28&show_icons=true&locale=en&layout=compact" alt="tejalkhade28" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejalkhade28&show_icons=true&locale=en" alt="tejalkhade28" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejalkhade28&" alt="tejalkhade28" /></p>
